@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/coolbottles/static/css/main.898ae062.css",
-    "main.js": "/coolbottles/static/js/main.ecfb4f2c.js",
+    "main.js": "/coolbottles/static/js/main.726b6c21.js",
     "static/media/menu-image.png": "/coolbottles/static/media/menu-image.030ea9ffe1913ec8da0a.png",
     "static/media/menu-image-3.jpeg": "/coolbottles/static/media/menu-image-3.62561123850bbb4a58ea.jpeg",
     "static/media/menu-image-2.jpeg": "/coolbottles/static/media/menu-image-2.c5d7bee7f8906cc7fc84.jpeg",
@@ -9,10 +9,10 @@
     "static/media/coperchi-slider.svg": "/coolbottles/static/media/coperchi-slider.0d1d39318949529324e31755e67e0c67.svg",
     "index.html": "/coolbottles/index.html",
     "main.898ae062.css.map": "/coolbottles/static/css/main.898ae062.css.map",
-    "main.ecfb4f2c.js.map": "/coolbottles/static/js/main.ecfb4f2c.js.map"
+    "main.726b6c21.js.map": "/coolbottles/static/js/main.726b6c21.js.map"
   },
   "entrypoints": [
     "static/css/main.898ae062.css",
-    "static/js/main.ecfb4f2c.js"
+    "static/js/main.726b6c21.js"
   ]
 }
